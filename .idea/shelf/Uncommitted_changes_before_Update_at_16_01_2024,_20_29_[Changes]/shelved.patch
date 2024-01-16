@@ -1,0 +1,12 @@
+Index: 1.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/1.txt b/1.txt
+new file mode 100644
+--- /dev/null	(date 1705411707188)
++++ b/1.txt	(date 1705411707188)
+@@ -0,0 +1,1 @@
++22222222
+\ No newline at end of file
